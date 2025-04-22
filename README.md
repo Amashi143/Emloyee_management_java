@@ -124,11 +124,6 @@ java -jar target/ems-backend-0.0.1-SNAPSHOT.jar
 
 ---
 
-## 🙋‍♂️ Authors
-
-- 👨‍💻 [Omkar-the-codr](https://github.com/Omkar-the-codr)
-
----
 
 ## 📄 License
 
